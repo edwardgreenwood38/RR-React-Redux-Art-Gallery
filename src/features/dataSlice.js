@@ -5,6 +5,7 @@ const initialState = {
     apiData: {}
 }
 
+
 export const dataSlice = createSlice({
     name: 'data',
     initialState,
